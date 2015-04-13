@@ -1,0 +1,44 @@
+C:\Users\SonVu\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\SonVu\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\SonVu\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\SonVu\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\SonVu\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\asm_inf205\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\asm_inf205\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\asm_inf205\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\asm_inf205\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\asm_inf205\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\asm_inf205\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\asm_inf205\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+D:\asm_inf205\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\asm_inf205\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\asm_inf205\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\asm_inf205\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\asm_inf205\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\asm_inf205\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\asm_inf205\New folder\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\asm_inf205\New folder\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\asm_inf205\New folder\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\asm_inf205\New folder\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\asm_inf205\New folder\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\asm_inf205\New folder\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\asm_inf205\New folder\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\asm_inf205\New folder\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\asm_inf205\New folder\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\asm_inf205\New folder\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\asm_inf205\New folder\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+D:\asm_inf205\New folder\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\asm_inf205\New folder\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\asm_inf205\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\asm_inf205\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\asm_inf205\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\asm_inf205\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\asm_inf205\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\asm_inf205\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\asm_inf205\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\asm_inf205\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\asm_inf205\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\asm_inf205\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\asm_inf205\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+D:\asm_inf205\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\asm_inf205\ASM2_INF_VUHPSPS02260\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
